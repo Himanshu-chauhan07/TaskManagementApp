@@ -1,0 +1,17 @@
+.task-detail-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .task-detail-page h1 {
+    margin-bottom: 20px;
+  }
+  
+  .task-detail-page p {
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  .task-detail-page strong {
+    font-weight: bold;
+  }
